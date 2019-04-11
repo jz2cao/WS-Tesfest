@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"10e6ea62-95ba-4b59-b617-1d059bc03939","asset_type":"connection"},"entity":{"datasource_type":"cfdcb449-1204-44ba-baa6-9a8a878e6aa7","description":"PrivateConnection","name":"PrivateConnection","origin_country":"us","properties":{"database":"BLUDB","host":"dashdb-entry-yp-lon02-01.services.eu-gb.bluemix.net"},"flags":["personal_credentials"]}}
